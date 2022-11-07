@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-#Portfolio
+### Portfolio
 
 -Portfolio setup for mobile and Desktop Version
 -This projects demonstrates the behaviour of a website page and how it responds to different screen sizes 
@@ -16,7 +16,7 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
--You need to have git and a text editor like vscode
+You need to have git and a text editor like vscode
 
 ### Setup
 -on your terminal clone the repository of this project[repo;https://github.com/collins-kiprotich/portfolio.git] using command git clone (repo) 
@@ -26,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 
 ##Deployment
 The webpage has been deployed with github pages and you can access it through the link below
-[Deployd website link](https://collins-kiprotich.github.io/)
+[Deployed website link](https://collins-kiprotich.github.io/)
 
 
 ## Author
