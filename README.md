@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+#Portfolio
 
--Portfolio setup for mobile.
+-Portfolio setup for mobile and Desktop Version
 -This projects demonstrates the behaviour of a website page and how it responds to different screen sizes 
 -Contains two sections; projects list and about myself.
 
@@ -24,10 +24,14 @@ To get a local copy up and running follow these simple example steps.
 -Then open the  index2.html file using your preferred text editor and run it on your browser.
 
 
+##Deployment
+The webpage has been deployed with github pages and you can access it through the link below
+[Deployd website link](https://collins-kiprotich.github.io/)
 
-## Authors
 
-👤 **Author1**
+## Author
+
+👤 **Collins kiprotich**
 
 - GitHub: (https://github.com/collins-kiprotich)
 - Twitter:(https://twitter.com/Jcee01188383)
