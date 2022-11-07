@@ -24,7 +24,7 @@ You need to have git and a text editor like vscode
 -Then open the  index2.html file using your preferred text editor and run it on your browser.
 
 
-##Deployment
+### Deployment
 The webpage has been deployed with github pages and you can access it through the link below
 [Deployed website link](https://collins-kiprotich.github.io/)
 
