@@ -29,6 +29,10 @@ The webpage has been deployed with github pages and you can access it through th
 [Deployed website link](https://collins-kiprotich.github.io/)
 
 
+### Video Walkthrough
+This [link](https://www.loom.com/share/0c7921edaa7c466ea09dcb4d48157126) contains a video walkthrough of my project
+
+
 ## Author
 
 👤 **Collins kiprotich**
